@@ -1,4 +1,3 @@
-⚡ Fun fact: ...
 <h1 align="center">Hello there! My name is Felipe</h1>
 <h3 align="center">A passionate Full Stack Developer from Brazil</h3>
 
@@ -9,8 +8,6 @@
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **felipealcantaravieira@hotmail.com**
-
-- ⚡ Fun fact: 
 
 
 <h3 align="left">Languages and Tools:</h3>
