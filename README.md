@@ -3,9 +3,9 @@
 
 <img width="40%" height="40%" align="right" alt="Github Image" src="https://scrippsprssa.files.wordpress.com/2019/12/giphy.gif" />
 
-- 🔭 I’m currently working at [Icatu Seguros](https://portal.icatuseguros.com.br/)
+- 🔭 I’m currently available to work.
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning PHP and Java
 
 - 💬 Ask me about **Web Development**
 
