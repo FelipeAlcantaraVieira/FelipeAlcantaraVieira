@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! My name is Felipe</h1>
 <h3 align="center">A passionate Full Stack Developer from Brazil</h3>
 
-- 🔭 I’m currently available to work.
+- 🔭 I’m currently open to work.
 
 - 🌱 I’m currently studying Analysis and Systems Development at the <a href="https://estacio.br/" target="_blank">Estácio University
 
