@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently open to work.
 
-- 🌱 I’m currently studying Analysis and Systems Development at the <a href="https://estacio.br/" target="_blank">Estácio University
+- 🌱 I’m currently studying Analysis and Systems Development at the <a href="https://unifatecie.edu.br/" target="_blank">UNIFATECIE University
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **felipealcantaravieira@hotmail.com**
 
