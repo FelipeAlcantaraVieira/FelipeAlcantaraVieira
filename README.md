@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently open to work.
 
-- 🌱 I’m currently studying Analysis and Systems Development at the <a href="https://unifatecie.edu.br/" target="_blank">UNIFATECIE University
+- 🌱 I’m currently studying Analysis and Systems Development at the <a href="https://unifatecie.edu.br/" target="_blank">UNIFATECIE University</a>
 
 - 💬 Ask me about **Software Development**
 
