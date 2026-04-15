@@ -1,35 +1,47 @@
 <h1 align="center">Hello there! My name is Felipe</h1>
-<h3 align="center">A passionate Full Stack Developer from Brazil</h3>
+<h3 align="center">Full Stack Developer from Brazil</h3>
 
-- 🔭 I’m currently open to work.
-
-- 🌱 I’m currently studying Analysis and Systems Development at the <a href="https://unifatecie.edu.br/" target="_blank">UNIFATECIE University</a>
-
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **felipealcantaravieira@hotmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+<p align="center">
+  🔭 Open to work • 🌱 Studying Analysis and Systems Development at 
+  <a href="https://unifatecie.edu.br/" target="_blank">UNIFATECIE</a>
 </p>
 
+<p align="center">
+  💬 Software Development • 📫 felipealcantaravieira@hotmail.com
+</p>
 
-<a href="https://www.linkedin.com/in/felipe-a-vieira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" width="40"/>
+</p>
+
+---
+
+<h3 align="left">Contact</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-a-vieira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
